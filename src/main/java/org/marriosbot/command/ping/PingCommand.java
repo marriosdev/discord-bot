@@ -1,7 +1,7 @@
 package org.marriosbot.command.ping;
 
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
-import org.marriosbot.command.CommandInterface;
+import org.marriosbot.bot.CommandInterface;
 
 public class PingCommand implements CommandInterface {
 

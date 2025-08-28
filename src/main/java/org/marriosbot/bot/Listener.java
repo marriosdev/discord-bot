@@ -1,4 +1,4 @@
-package org.marriosbot.command;
+package org.marriosbot.bot;
 
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.entities.Activity;

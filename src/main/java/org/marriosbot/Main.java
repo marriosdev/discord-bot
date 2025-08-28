@@ -1,9 +1,9 @@
 package org.marriosbot;
 
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
-import org.marriosbot.command.CommandDispatcher;
-import org.marriosbot.command.CommandInterface;
-import org.marriosbot.command.Listener;
+import org.marriosbot.bot.CommandDispatcher;
+import org.marriosbot.bot.CommandInterface;
+import org.marriosbot.bot.Listener;
 import org.marriosbot.command.aviso.AvisoCommand;
 import org.marriosbot.command.ping.PingCommand;
 

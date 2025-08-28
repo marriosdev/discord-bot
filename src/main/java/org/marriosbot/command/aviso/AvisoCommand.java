@@ -2,7 +2,7 @@ package org.marriosbot.command.aviso;
 
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
-import org.marriosbot.command.CommandInterface;
+import org.marriosbot.bot.CommandInterface;
 
 import java.awt.*;
 

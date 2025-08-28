@@ -1,4 +1,4 @@
-package org.marriosbot.command;
+package org.marriosbot.bot;
 
 import io.github.cdimascio.dotenv.Dotenv;
 
